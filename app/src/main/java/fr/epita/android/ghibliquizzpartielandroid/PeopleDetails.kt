@@ -24,7 +24,7 @@ class PeopleDetails : AppCompatActivity(), View.OnClickListener {
             when (clickedView.id) {
                 R.id.button -> {
                     val openURL = Intent(Intent.ACTION_VIEW)
-                    openURL.data = Uri.parse("https://google.com/?q=" + clickedView.titleLabel)
+                    openURL.data = Uri.parse("https://google.com/search?q=" + clickedView.titleLabel)
                     startActivity(openURL)
                 }
                 else -> {
