@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GhibliQuizzPartielAndroid</string>
+    <string name="theQuiz">The QUIZ</string>
+    <string name="logoDesc">Logo</string>
+    <string name="question">Which one of these characters can be found in the movie __movie__ ?</string>
+    <string name="load">loading&#8230;</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="director">Director</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="characters">Characters</string>
+    <string name="knowMore">Would you like to know more</string>
+</resources>
